@@ -1,0 +1,4 @@
+project: PROJECT
+target: oss-fuzz-address
+cmds:
+- cmd: /out/oss-fuzz-address
